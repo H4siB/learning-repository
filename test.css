@@ -2,7 +2,7 @@ div{
     font-style: oblique;
     padding: 20px;
     margin-bottom: 10px;
-    background-color: darkred;
+    color: aqua;
     border: 10px;
     border-radius: 5px;
     }
@@ -12,3 +12,7 @@ div{
             margin: auto;
             color: violet;
         }
+body{
+    background-image: url(image/css.jpg);
+    background-size: cover;
+}
