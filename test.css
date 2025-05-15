@@ -1,0 +1,13 @@
+div{
+    font-style: oblique;
+    margin-bottom: 10px;
+    background-color: darkred;
+    border: 10px;
+    border-radius: 5px;
+    }
+#heading{
+            font-style: italic;
+            text-align: center;
+            margin: auto;
+            color: violet;
+        }
